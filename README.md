@@ -13,6 +13,7 @@ A free collection of resources for learning SwiftUI. \
 - **IP Address Locator** - [Full Video](https://youtu.be/rKREkU4v3Ao)
 - **Password Generator** - [Full Video](https://youtu.be/YdAOtgV0X9o)
 - **Pokedex App with MVVM** - [Full Video](https://youtu.be/wwOOwhsPKpU)
+- **URL Shortener** - [Full Video](https://youtu.be/3MzROHe3gf4)
 - **Virtual Pet with MVVM** - [Full Video](https://youtu.be/e7u9ZSCtLws)
 
 ## 🔨 SwiftUI Components
@@ -23,13 +24,16 @@ A free collection of resources for learning SwiftUI. \
 - **Custom Countdown Timer** - [Full Video](https://youtu.be/NAsQCNpodPI)
 - **Custom Login Screen** - [Full Video](https://youtu.be/BU-FtY5-RTM)
 - **Custom Tab Bar**  - [Full Video](https://youtu.be/vzQDKYIKEb8)
+- **Half Sheet** - [Full Video](https://youtu.be/JuN0_gpTNWY)
 - **Responsive Grid View** - [Full Video](https://youtu.be/e7u9ZSCtLws)
 - **Saving Favourites in a List** - [Full Video](https://youtu.be/_lPU9SrBpRI)
 - **Sliding Intro Screens** - [Full Video](https://youtu.be/OPTzgeIKMgU)
 
 ## 📖 SwiftUI Knowledge
+- **Adding App Icons** - [Full Video](https://youtu.be/8HXiXg65QLI)
 - **App Storage** - [Full Video](https://youtu.be/OLyGYcSw9Bs)
 - **Custom Modifiers** - [Full Video](https://youtu.be/C7G51_Bx7mc)
+- **Decoding JSON Files** - [Full Video](https://youtu.be/J06P6AMKo5Q)
 - **MVVM** - [Full Video](https://youtu.be/H5wmKjfsz68)
 - **onChange** - [Full Video](https://youtu.be/w3GifXVPSD4)
 - **Saving Colors to UserDefaults** - [Full Video](https://youtu.be/UAXVZUVGU98)
